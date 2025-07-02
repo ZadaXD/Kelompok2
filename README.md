@@ -1,13 +1,3 @@
-## 📘 `README.md`
-
-````markdown
-# SIM SARPRAS – Sistem Informasi Pengkodean Sarana dan Prasarana
-
-Sistem ini dikembangkan menggunakan Laravel 10 dengan template AdminLTE 3 sebagai antarmuka, untuk mempermudah pengelolaan kode barang dan kode ruang di lingkungan AMIK Taruna Probolinggo.
-
----
----
-````
 ## 📦 Fitur Utama
 
 - Manajemen Kode Barang (CRUD)
@@ -31,7 +21,7 @@ Sistem ini dikembangkan menggunakan Laravel 10 dengan template AdminLTE 3 sebaga
 - MySQL
 
 ---
-````
+
 ## 🚀 Instalasi Lokal
 
 ### 1. Clone Project
