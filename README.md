@@ -111,7 +111,8 @@ Proyek ini dikembangkan untuk keperluan akademik internal. Silakan gunakan dan k
 ```
 
 ---
-
+---
+````
 ## 📝 Catatan
 
 - Ganti `https://github.com/username/sim-sarpras.git` dengan URL repositorimu sendiri.
@@ -120,10 +121,3 @@ Proyek ini dikembangkan untuk keperluan akademik internal. Silakan gunakan dan k
 
 ---
 
-Ingin saya bantu tambahkan:
-- CI/CD GitHub Actions?
-- Badge Laravel, PHP, Build status?
-- Screenshots otomatis di README?
-
-Silakan bilang, kita lanjut!
-```
