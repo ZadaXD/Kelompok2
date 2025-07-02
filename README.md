@@ -1,7 +1,3 @@
-Berikut adalah contoh file `README.md` lengkap dan profesional untuk repositori GitHub proyek Laravel 10 **SIM SARPRAS** berbasis AdminLTE 3:
-
----
-
 ## 📘 `README.md`
 
 ````markdown
@@ -10,7 +6,8 @@ Berikut adalah contoh file `README.md` lengkap dan profesional untuk repositori 
 Sistem ini dikembangkan menggunakan Laravel 10 dengan template AdminLTE 3 sebagai antarmuka, untuk mempermudah pengelolaan kode barang dan kode ruang di lingkungan AMIK Taruna Probolinggo.
 
 ---
-
+---
+````
 ## 📦 Fitur Utama
 
 - Manajemen Kode Barang (CRUD)
@@ -34,7 +31,7 @@ Sistem ini dikembangkan menggunakan Laravel 10 dengan template AdminLTE 3 sebaga
 - MySQL
 
 ---
-
+````
 ## 🚀 Instalasi Lokal
 
 ### 1. Clone Project
@@ -42,7 +39,7 @@ Sistem ini dikembangkan menggunakan Laravel 10 dengan template AdminLTE 3 sebaga
 ```bash
 git clone https://github.com/username/sim-sarpras.git
 cd sim-sarpras
-````
+```
 
 ### 2. Install Dependency
 
