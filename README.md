@@ -61,8 +61,8 @@ Seeder akan otomatis menambahkan akun login default.
 
 | Role    | Email                                             | Password |
 | ------- | ------------------------------------------------- | -------- |
-| Humas   | [humas@example.com](mailto:humas@example.com)     | password |
-| Layanan | [layanan@example.com](mailto:layanan@example.com) | password |
+| Humas   | [humas@gmail.com](mailto:humas@example.com)       | password |
+| Layanan | [layanan@gmail.com](mailto:layanan@example.com)   | password |
 
 ---
 
