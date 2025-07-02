@@ -27,8 +27,8 @@
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/username/sim-sarpras.git
-cd sim-sarpras
+git clone https://github.com/ZadaXD/Kelompok2.git
+cd Kelompok2
 ```
 
 ### 2. Install Dependency
@@ -115,7 +115,7 @@ Proyek ini dikembangkan untuk keperluan akademik internal. Silakan gunakan dan k
 ````
 ## 📝 Catatan
 
-- Ganti `https://github.com/username/sim-sarpras.git` dengan URL repositorimu sendiri.
+- Ganti `https://github.com/ZadaXD/Kelompok2.git` dengan URL repositorimu sendiri.
 - File `.env.example` harus ada untuk mempermudah setup user lain.
 - Jika kamu butuh script `seeder`, saya bisa bantu buatkan juga untuk user `humas` dan `layanan`.
 
